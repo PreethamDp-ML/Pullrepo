@@ -6,4 +6,5 @@ FIle change to perfoem 3 way merge
 Added new changes
 
 new text
- 
+
+new 1 
