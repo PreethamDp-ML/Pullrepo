@@ -3,4 +3,7 @@ This file is changed
 This file is changed again
 FIle change to perfoem fast forward merge
 FIle change to perfoem 3 way merge
-Added new changes 
+Added new changes
+
+new text
+ 
